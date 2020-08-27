@@ -13,6 +13,8 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Oracle" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" />
+<img align="left" alt="MongoDB" width="26px" src="http://simpleicons.org/icons/mongodb.svg" />
+
 <br/>
 
 ### Connect with me:
@@ -21,7 +23,7 @@
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br/>
 <br/>
@@ -52,4 +54,4 @@
 [twitter]: https://twitter.com/abhhishek003
 [instagram]: https://instagram.com/abhhishek__
 [linkedin]: https://linkedin.com/in/abhishek-kumar-62426395
-
+[telegram]: https://t.me/abhhi003
