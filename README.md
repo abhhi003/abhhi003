@@ -1,5 +1,5 @@
-<h1 align ="center">Hi, I'm Abhishek.</h1>
-<h3 align="center">A Peaceful Little Warrior</h3>
+<h1 align ="center">Hi 👋, I'm Abhishek!</h1>
+<h3 align = "center"> Passionate Learner | Curious Coder | Developer </h3>
 
 
 ### Languages & Tools:
