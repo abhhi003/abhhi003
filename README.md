@@ -37,7 +37,6 @@
 
 ---
 
-<br/>
 ### Github Stats:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhhi003&show_icons=true" alt="abhhi003" /></p>
