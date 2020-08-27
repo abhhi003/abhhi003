@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A Peaceful Little Warrior</h3>
 
@@ -12,7 +11,3 @@
 <a href="https://fb.com/abhhi003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="abhhi003" height="30" width="30" /></a>
 <a href="https://instagram.com/abhhishek__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="abhhishek__" height="30" width="30" /></a>
 </p>
-About
-Addons
-Support
-Developed in India 🇮🇳
