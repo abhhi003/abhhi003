@@ -30,7 +30,7 @@
 
 ### Top Languages:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhhi003&layout=compact&hide=html" alt="abhhi003" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhhi003&layout=compact&hide=html" alt="abhhi003" /></p>
 
 <br/>
 <br/>
