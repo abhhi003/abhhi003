@@ -55,6 +55,6 @@
 
 [facebook]: https://fb.com/abhhi003
 [twitter]: https://twitter.com/abhhishek003
-[instagram]: https://instagram.com/abhhishek__
+[instagram]: https://instagram.com/abhiarasaurus
 [linkedin]: https://linkedin.com/in/abhishek-kumar-62426395
 [telegram]: https://t.me/abhhi003
